@@ -6,10 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarzz" alt="manarzz" /></a> </p>
 <br>
- <h3> About Me : <h3>
-- 👨‍💻 I’m junior **computer scince  Student  at SCU**
-
-- 👨‍💻 I’m a competitive programmer at **Codeforces , Atcoder, Codechef **
+ <h3> About Me : <h3><hr>
+- 👨‍💻 I’m junior **computer scince  Student  at SCU** <br>
+- 👨‍💻 I’m a competitive programmer at **Codeforces , Atcoder, Codechef**
 
 
 
