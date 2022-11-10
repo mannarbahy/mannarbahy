@@ -2,9 +2,9 @@
 <h1 align="center"> HI👋,I'm manar bahy eldeen</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=090BF7&background=FFEFF400&vCenter=true&width=435&lines=+I'm+a+Junior+Computer+Science+;Student" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manarzz&label=Profile%20views&color=0e75b6&style=flat" alt="manarzz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarzz" alt="manarzz" /></a> </p>
+
+
 <br>
  <h3> About Me : <h3><hr>
  <p>
