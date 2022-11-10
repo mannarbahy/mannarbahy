@@ -7,11 +7,11 @@
 
 <br>
  <h3> About Me : <h3><hr>
- <p>
-- 👨‍💻 I’m junior **computer scince  Student  at SCU** <br>
-- 👨‍💻 I’m a competitive programmer at **Codeforces , Atcoder, Codechef** <br>
+
+- 👨‍💻 I’m junior <strong>*computer scince  Student  at SCU*</strong> <br>
+- 👨‍💻 I’m a competitive programmer at <b>*Codeforces , Atcoder, Codechef* </b> <br>
 - 📫 How to reach me **manar.bahyy@gmail.com**
-</p>
+
 
 
 
