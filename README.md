@@ -1,11 +1,17 @@
 
-<h1 align="center"> HI👋,I'm manar bahy eldeen</h1>
+<h1 align="center"> Hi👋,I'm manar bahy eldeen</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=090BF7&background=FFEFF400&vCenter=true&width=435&lines=+I'm+a+Junior+Computer+Science+;Student" alt="Typing SVG" /></a>
 
 
 
 
 <br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="600" height="200"/>
+</div> 
+<br>
+<hr>
  <h3> About Me : <h3><hr>
 
 - 👨‍💻 I’m junior <strong>*computer scince  Student  at SCU*</strong> <br>
