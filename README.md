@@ -17,7 +17,7 @@
 - 👨‍💻 I’m junior <strong>*computer scince  Student  at SCU*</strong> <br>
 - 👨‍💻 I’m a competitive programmer at <b>*Codeforces , Atcoder, Codechef* </b> <br>
 - 📫 How to reach me **manar.bahyy@gmail.com**
-- You can look at  <a href="https://docs.google.com/document/d/1W4QbOZFHAwsiQvGMTrhy8CnWrznkwIjcNq-vYH_twKU/edit?usp=sharing">my Resume</a> for more Details about me
+-  for more Details about me
 
 
 
