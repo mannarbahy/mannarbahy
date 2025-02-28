@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋, I'm Manar Bahy Eldeen</h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=090BF7&background=FFEFF400&vCenter=true&width=435&lines=+I'm+a+Junior+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=090BF7&background=FFEFF400&vCenter=true&width=435&lines=+I'm+a+Computer+Science+Graduate" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=mannarbahy&style=flat-square&color=blue" alt="Profile Views"/>
@@ -16,7 +16,7 @@
 <h3>About Me:</h3>
 <hr>
 <ul>
-  <li>👨‍💻 I’m a junior <strong>Computer Science Student at SCU</strong></li>
+  <li>👨‍💻 I’m a <strong>Computer Science Graduate from SCU</strong></li>
   <li>🏆 I’m a competitive programmer on <strong>Codeforces, Atcoder, CodeChef</strong></li>
   <li>📫 How to reach me: <strong>manar.bahyy@gmail.com</strong></li>
   <li>📄 <a href="https://docs.google.com/document/d/1_ywHKYtP2h1WVki1WtYXbUXFuccmerwV/edit?usp=sharing&ouid=107163713263607502151&rtpof=true&sd=true" target="_blank">My CV</a> for more details about me</li>
